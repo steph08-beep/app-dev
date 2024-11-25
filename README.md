@@ -1,5 +1,7 @@
 # app-dev
 My first repository
+
+readme-edits
 # MY FAVORITE MOVIE
 ## SCI-FI/ACTION/ROMANCE/COMEDY
 
@@ -10,3 +12,8 @@ My first repository
 3. READY OR NOT
 4. VENOM
 5. SPIDERMAN
+=======
+
+#MY FAVORITE COLOR
+1. GREEN
+ main

@@ -1,6 +1,15 @@
 # app-dev
 My first repository
 
+VALERIO
+**MY FAVORITE SERIES**
+##SCI-FI/ACTION/ROMANCE/COMEDY
+
+**FROM NETFLIX**
+1.MOUSE
+2.STRONG WOMAN DO BONG SOON
+3.KILLER
+=======
 readme-edits
 # MY FAVORITE MOVIE
 ## SCI-FI/ACTION/ROMANCE/COMEDY
@@ -17,3 +26,4 @@ readme-edits
 #MY FAVORITE COLOR
 1. GREEN
  main
+
